@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Student Dropout Synthetic Dataset
 
@@ -83,3 +84,6 @@ student_dropout_dataset.csv
 
 Data Mining Project
 Universidad de la Costa
+=======
+# generadordataset
+>>>>>>> f2592636c358868e10131f4a2f10749ab56643b2
